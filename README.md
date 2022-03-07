@@ -14,3 +14,5 @@ The ADMIN special functions are not detailed in the docs. I advise you to use on
 - Save DB
 
 ![image](https://user-images.githubusercontent.com/3343551/157130997-b1bb4ac5-79c1-4062-b744-6e83fbb94994.png)
+
+The database used is sqlite. **I advise you not to alter data directly in the database.**
